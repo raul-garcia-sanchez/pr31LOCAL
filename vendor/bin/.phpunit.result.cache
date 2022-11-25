@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AddCityTest::testAddCity":4,"AddCityTest::testDuplicatedCityError":4,"Warning":6},"times":{"AddCityTest::testAddCity":0.945,"AddCityTest::testDuplicatedCityError":1.012,"FilterTest::testShowCountryCities":0.64,"FilterTest::testDontShowOtherCountriesCities":0.48,"JoinTest::testJoinShowsCountryName":0.572,"TitleTest::testTitol":0.115,"Warning":0.001}}
